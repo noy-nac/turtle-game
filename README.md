@@ -78,3 +78,5 @@ For this option, imagine a 2d grid for the snake to move through. Apples randoml
 1 point - Change the parameters (e.g., speed, difficulty) of the game **as it progresses.**
 
 1 point - Display when someone wins or loses the game, or keep track of points
+
+10 POINTS TOTAL
